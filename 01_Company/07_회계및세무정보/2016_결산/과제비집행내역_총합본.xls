@@ -1,0 +1,917 @@
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Content-Type" content="application/vnd.ms-excel; charset=euc-kr">
+ <STYLE type='text/css'>
+<!--
+.title_sub {font-size:12px;
+	color: #555;
+	height: 25px;
+	text-decoration: none;
+	font-weight:bold;
+	line-height:17px;
+	width: auto;
+	font-variant: normal;
+}
+.table_header_line {
+	height: 2px;
+	background-color: #8DAFB1;
+}
+.box02 {background-color: #D0D0D0; width: 950px;}
+.list_td04 {
+	background-color: #E1EDED;
+	font-family: "Tahoma";
+	HEIGHT: 22px;
+	font-size: 12px;
+	color:#666;
+	font-weight:bold;
+	padding: 0px 3px 0px 3px;
+}
+ .list_gray {
+	height: 22px;
+	padding: 0px 3px 0px 3px;
+    background-color: #FFF
+}
+.list_td03 {
+	HEIGHT: 22px; BACKGROUND-COLOR: #E1EDED; TEXT-DECORATION: none;	FONT-WEIGHT: bold; padding: 0px 3px 0px 3px;
+}
+.list_big_top {
+	PADDING-BOTTOM: 4px;PADDING-TOP: 6px;HEIGHT: 22px;BACKGROUND-COLOR: #E1EDED; line-height:16px;  FONT-WEIGHT: bold;
+}
+.list_point02 {PADDING-LEFT: 5px; PADDING-TOP: 3px; PADDING-RIGHT: 3px; PADDING-BOTTOM: 3px; HEIGHT: 25px; BACKGROUND-COLOR: #EFEEDD; COLOR: #000000}
+.list_gray_P {PADDING-LEFT: 3px; PADDING-TOP: 1px; PADDING-BOTTOM: 1px; PADDING-RIGHT: 3px; HEIGHT: 22px; BACKGROUND-COLOR: #f7f7f7 }
+-->
+</STYLE>
+
+
+<html>
+<body>
+<!------------ 과제정보 ------------>	
+<b>과제정보</b>
+<table width='852' border="1">
+	<colgroup>
+		<col style="width:15%">
+		<col style="width:35%">
+		<col style="width:15%">
+		<col style="width:35%">
+	</colgroup>
+	<tr>
+		<th class="list_td04">과제번호</th>
+		<td colspan="3">R74171600740001002</td>	
+	</tr>
+	<tr>
+		<th class="list_td04">과 제 명</th> 
+		<td colspan="3">초저전력 다중센서기반의 ICT 융합 주차 유도 시스템</td>
+	</tr>	
+	<tr>
+		<th class="list_td04">연구기관</th>
+		<td colspan="3">이그쉐어</td>
+	</tr>
+	<tr>
+		<th class="list_td04">총괄책임자</th>
+		<td colspan="3">엄민영</td>
+	</tr>	
+	<tr>
+		<th class="list_td04">총사업기간</th>
+		<td colspan="3">2016-05-01 ~ 2016-12-31</td>	
+	</tr>
+	<tr>	
+		<th class="list_td04">당해사업기간</th>
+		<td colspan="3">2016-05-01 ~ 2016-12-31</td>
+	</tr>	
+</table>
+<br><br>
+
+<!---------- 예실대비표 ---------->	
+<b>예실대비표</b>
+
+<table width="1470" border="1">
+  <tr bgcolor="#DEF1F8"> 
+    <td width="198" align="center" valign="center" rowspan="2" >비목</td>
+    <td colspan="3" align="center" >최초협약예산</td>
+    <td colspan="5" align="center" >최종변경예산</td>
+    <td colspan="4" align="center" >실집행액</td>
+    <td colspan="3" align="center" >집행잔액</td>
+    <td width="68" rowspan="2" >집행비율</td>
+    <td width="68" rowspan="2" >집행건수</td>
+  </tr>
+  <tr bgcolor="#DEF1F8"> 
+    <td width="68" align="center">예산(현금)</td>
+    <td width="68" align="center">예산(현물)</td>
+    <td width="75" align="center">예산(합계)</td>
+    <td width="68" align="center">예산(현금)</td>
+    <td width="68" align="center">예산(현물)</td>
+    <td width="68" align="center">예산(이월금)</td>
+    <td width="68" align="center">예산(이자)</td>
+    <td width="75" align="center">예산(합계)</td>
+    <td width="68" align="center">현금</td>
+    <td width="68" align="center">부가세</td>
+    <td width="68" align="center">현물</td>
+    <td width="75" align="center">합계</td>
+    <td width="68" align="center">현금</td>
+    <td width="68" align="center">현물</td>
+    <td width="75" align="center">합계</td>
+  </tr> 
+  
+   
+  
+	<tr >
+	    <td align="left">가.직접비</td>	
+		<td class="txtr">137,000,000</td>
+		<td class="txtr">40,000,000</td>
+		<td class="txtr">
+		    <b>177,000,000</b>
+		</td>
+		<!-- 현금 -->
+		<td class="txtr">137,000,000</td>
+		   
+		<!-- 현물 -->
+		<td class="txtr">40,000,000</td>
+		
+		<!-- 이월금 (현금만 존재) --> 
+		<td class="txtr">0</td>
+		
+		<!-- 이자 (현금만 존재)-->
+   		<td class="txtr">0</td>
+		
+		<td class="txtr">
+		    <b>177,000,000</b>
+		</td>
+		
+		<td class="txtr">131,872,305</td>	
+		<td class="txtr">8,836,451</td>
+		<td class="txtr">0</td>
+		<td class="txtr">
+		    <b>140,708,756</b>
+		</td>
+		
+		<td class="txtr">5,127,695</td>
+		<td class="txtr">40,000,000</td>
+		<td class="txtr">
+		    <b>45,127,695</b>
+		</td>
+		
+		<td class="txtr">74.50%</td>
+		<td class="txtr">121</td>								
+	</tr>
+  
+	<tr >
+	    <td align="left">O.내부인건비</td>	
+		<td class="txtr">5,000,000</td>
+		<td class="txtr">40,000,000</td>
+		<td class="txtr">
+		    <b>45,000,000</b>
+		</td>
+		<!-- 현금 -->
+		<td class="txtr">39,000,000</td>
+		   
+		<!-- 현물 -->
+		<td class="txtr">40,000,000</td>
+		
+		<!-- 이월금 (현금만 존재) --> 
+		<td class="txtr">0</td>
+		
+		<!-- 이자 (현금만 존재)-->
+   		<td class="txtr">0</td>
+		
+		<td class="txtr">
+		    <b>79,000,000</b>
+		</td>
+		
+		<td class="txtr">34,000,000</td>	
+		<td class="txtr">0</td>
+		<td class="txtr">0</td>
+		<td class="txtr">
+		    <b>34,000,000</b>
+		</td>
+		
+		<td class="txtr">5,000,000</td>
+		<td class="txtr">40,000,000</td>
+		<td class="txtr">
+		    <b>45,000,000</b>
+		</td>
+		
+		<td class="txtr">43.03%</td>
+		<td class="txtr">11</td>								
+	</tr>
+  
+	<tr >
+	    <td align="left">O.외부인건비</td>	
+		<td class="txtr">0</td>
+		<td class="txtr">0</td>
+		<td class="txtr">
+		    <b>0</b>
+		</td>
+		<!-- 현금 -->
+		<td class="txtr">0</td>
+		   
+		<!-- 현물 -->
+		<td class="txtr">0</td>
+		
+		<!-- 이월금 (현금만 존재) --> 
+		<td class="txtr">0</td>
+		
+		<!-- 이자 (현금만 존재)-->
+   		<td class="txtr">0</td>
+		
+		<td class="txtr">
+		    <b>0</b>
+		</td>
+		
+		<td class="txtr">0</td>	
+		<td class="txtr">0</td>
+		<td class="txtr">0</td>
+		<td class="txtr">
+		    <b>0</b>
+		</td>
+		
+		<td class="txtr">0</td>
+		<td class="txtr">0</td>
+		<td class="txtr">
+		    <b>0</b>
+		</td>
+		
+		<td class="txtr">0</td>
+		<td class="txtr">0</td>								
+	</tr>
+  
+	<tr >
+	    <td align="left">O.학생인건비</td>	
+		<td class="txtr">0</td>
+		<td class="txtr">0</td>
+		<td class="txtr">
+		    <b>0</b>
+		</td>
+		<!-- 현금 -->
+		<td class="txtr">0</td>
+		   
+		<!-- 현물 -->
+		<td class="txtr">0</td>
+		
+		<!-- 이월금 (현금만 존재) --> 
+		<td class="txtr">0</td>
+		
+		<!-- 이자 (현금만 존재)-->
+   		<td class="txtr">0</td>
+		
+		<td class="txtr">
+		    <b>0</b>
+		</td>
+		
+		<td class="txtr">0</td>	
+		<td class="txtr">0</td>
+		<td class="txtr">0</td>
+		<td class="txtr">
+		    <b>0</b>
+		</td>
+		
+		<td class="txtr">0</td>
+		<td class="txtr">0</td>
+		<td class="txtr">
+		    <b>0</b>
+		</td>
+		
+		<td class="txtr">0</td>
+		<td class="txtr">0</td>								
+	</tr>
+  
+	<tr >
+	    <td align="left">O.연구장비/재료비</td>	
+		<td class="txtr">74,500,000</td>
+		<td class="txtr">0</td>
+		<td class="txtr">
+		    <b>74,500,000</b>
+		</td>
+		<!-- 현금 -->
+		<td class="txtr">63,815,000</td>
+		   
+		<!-- 현물 -->
+		<td class="txtr">0</td>
+		
+		<!-- 이월금 (현금만 존재) --> 
+		<td class="txtr">0</td>
+		
+		<!-- 이자 (현금만 존재)-->
+   		<td class="txtr">0</td>
+		
+		<td class="txtr">
+		    <b>63,815,000</b>
+		</td>
+		
+		<td class="txtr">63,814,986</td>	
+		<td class="txtr">6,202,070</td>
+		<td class="txtr">0</td>
+		<td class="txtr">
+		    <b>70,017,056</b>
+		</td>
+		
+		<td class="txtr">14</td>
+		<td class="txtr">0</td>
+		<td class="txtr">
+		    <b>14</b>
+		</td>
+		
+		<td class="txtr">99.99%</td>
+		<td class="txtr">62</td>								
+	</tr>
+  
+	<tr >
+	    <td align="left">O.연구활동비</td>	
+		<td class="txtr">20,000,000</td>
+		<td class="txtr">0</td>
+		<td class="txtr">
+		    <b>20,000,000</b>
+		</td>
+		<!-- 현금 -->
+		<td class="txtr">2,185,000</td>
+		   
+		<!-- 현물 -->
+		<td class="txtr">0</td>
+		
+		<!-- 이월금 (현금만 존재) --> 
+		<td class="txtr">0</td>
+		
+		<!-- 이자 (현금만 존재)-->
+   		<td class="txtr">0</td>
+		
+		<td class="txtr">
+		    <b>2,185,000</b>
+		</td>
+		
+		<td class="txtr">2,057,319</td>	
+		<td class="txtr">205,731</td>
+		<td class="txtr">0</td>
+		<td class="txtr">
+		    <b>2,263,050</b>
+		</td>
+		
+		<td class="txtr">127,681</td>
+		<td class="txtr">0</td>
+		<td class="txtr">
+		    <b>127,681</b>
+		</td>
+		
+		<td class="txtr">94.15%</td>
+		<td class="txtr">8</td>								
+	</tr>
+  
+	<tr >
+	    <td align="left">O.연구과제추진비</td>	
+		<td class="txtr">9,500,000</td>
+		<td class="txtr">0</td>
+		<td class="txtr">
+		    <b>9,500,000</b>
+		</td>
+		<!-- 현금 -->
+		<td class="txtr">4,000,000</td>
+		   
+		<!-- 현물 -->
+		<td class="txtr">0</td>
+		
+		<!-- 이월금 (현금만 존재) --> 
+		<td class="txtr">0</td>
+		
+		<!-- 이자 (현금만 존재)-->
+   		<td class="txtr">0</td>
+		
+		<td class="txtr">
+		    <b>4,000,000</b>
+		</td>
+		
+		<td class="txtr">4,000,000</td>	
+		<td class="txtr">428,650</td>
+		<td class="txtr">0</td>
+		<td class="txtr">
+		    <b>4,428,650</b>
+		</td>
+		
+		<td class="txtr">0</td>
+		<td class="txtr">0</td>
+		<td class="txtr">
+		    <b>0</b>
+		</td>
+		
+		<td class="txtr">100%</td>
+		<td class="txtr">36</td>								
+	</tr>
+  
+	<tr >
+	    <td align="left">O.연구수당</td>	
+		<td class="txtr">8,000,000</td>
+		<td class="txtr">0</td>
+		<td class="txtr">
+		    <b>8,000,000</b>
+		</td>
+		<!-- 현금 -->
+		<td class="txtr">8,000,000</td>
+		   
+		<!-- 현물 -->
+		<td class="txtr">0</td>
+		
+		<!-- 이월금 (현금만 존재) --> 
+		<td class="txtr">0</td>
+		
+		<!-- 이자 (현금만 존재)-->
+   		<td class="txtr">0</td>
+		
+		<td class="txtr">
+		    <b>8,000,000</b>
+		</td>
+		
+		<td class="txtr">8,000,000</td>	
+		<td class="txtr">0</td>
+		<td class="txtr">0</td>
+		<td class="txtr">
+		    <b>8,000,000</b>
+		</td>
+		
+		<td class="txtr">0</td>
+		<td class="txtr">0</td>
+		<td class="txtr">
+		    <b>0</b>
+		</td>
+		
+		<td class="txtr">100%</td>
+		<td class="txtr">3</td>								
+	</tr>
+  
+	<tr >
+	    <td align="left">O.위탁연구개발비</td>	
+		<td class="txtr">20,000,000</td>
+		<td class="txtr">0</td>
+		<td class="txtr">
+		    <b>20,000,000</b>
+		</td>
+		<!-- 현금 -->
+		<td class="txtr">20,000,000</td>
+		   
+		<!-- 현물 -->
+		<td class="txtr">0</td>
+		
+		<!-- 이월금 (현금만 존재) --> 
+		<td class="txtr">0</td>
+		
+		<!-- 이자 (현금만 존재)-->
+   		<td class="txtr">0</td>
+		
+		<td class="txtr">
+		    <b>20,000,000</b>
+		</td>
+		
+		<td class="txtr">20,000,000</td>	
+		<td class="txtr">2,000,000</td>
+		<td class="txtr">0</td>
+		<td class="txtr">
+		    <b>22,000,000</b>
+		</td>
+		
+		<td class="txtr">0</td>
+		<td class="txtr">0</td>
+		<td class="txtr">
+		    <b>0</b>
+		</td>
+		
+		<td class="txtr">100%</td>
+		<td class="txtr">1</td>								
+	</tr>
+  
+	<tr >
+	    <td align="left">나.간접비</td>	
+		<td class="txtr">3,000,000</td>
+		<td class="txtr">0</td>
+		<td class="txtr">
+		    <b>3,000,000</b>
+		</td>
+		<!-- 현금 -->
+		<td class="txtr">3,000,000</td>
+		   
+		<!-- 현물 -->
+		<td class="txtr">0</td>
+		
+		<!-- 이월금 (현금만 존재) --> 
+		<td class="txtr">0</td>
+		
+		<!-- 이자 (현금만 존재)-->
+   		<td class="txtr">0</td>
+		
+		<td class="txtr">
+		    <b>3,000,000</b>
+		</td>
+		
+		<td class="txtr">3,000,000</td>	
+		<td class="txtr">300,000</td>
+		<td class="txtr">0</td>
+		<td class="txtr">
+		    <b>3,300,000</b>
+		</td>
+		
+		<td class="txtr">0</td>
+		<td class="txtr">0</td>
+		<td class="txtr">
+		    <b>0</b>
+		</td>
+		
+		<td class="txtr">100%</td>
+		<td class="txtr">2</td>								
+	</tr>
+  
+	<tr >
+	    <td align="left">O.간접비</td>	
+		<td class="txtr">3,000,000</td>
+		<td class="txtr">0</td>
+		<td class="txtr">
+		    <b>3,000,000</b>
+		</td>
+		<!-- 현금 -->
+		<td class="txtr">3,000,000</td>
+		   
+		<!-- 현물 -->
+		<td class="txtr">0</td>
+		
+		<!-- 이월금 (현금만 존재) --> 
+		<td class="txtr">0</td>
+		
+		<!-- 이자 (현금만 존재)-->
+   		<td class="txtr">0</td>
+		
+		<td class="txtr">
+		    <b>3,000,000</b>
+		</td>
+		
+		<td class="txtr">3,000,000</td>	
+		<td class="txtr">300,000</td>
+		<td class="txtr">0</td>
+		<td class="txtr">
+		    <b>3,300,000</b>
+		</td>
+		
+		<td class="txtr">0</td>
+		<td class="txtr">0</td>
+		<td class="txtr">
+		    <b>0</b>
+		</td>
+		
+		<td class="txtr">100%</td>
+		<td class="txtr">2</td>								
+	</tr>
+  
+	<tr >
+	    <td align="left">미등록카드건</td>	
+		<td class="txtr">0</td>
+		<td class="txtr">0</td>
+		<td class="txtr">
+		    <b>0</b>
+		</td>
+		<!-- 현금 -->
+		<td class="txtr">0</td>
+		   
+		<!-- 현물 -->
+		<td class="txtr">0</td>
+		
+		<!-- 이월금 (현금만 존재) --> 
+		<td class="txtr">0</td>
+		
+		<!-- 이자 (현금만 존재)-->
+   		<td class="txtr">0</td>
+		
+		<td class="txtr">
+		    <b>0</b>
+		</td>
+		
+		<td class="txtr">5,327</td>	
+		<td class="txtr">0</td>
+		<td class="txtr">0</td>
+		<td class="txtr">
+		    <b>5,327</b>
+		</td>
+		
+		<td class="txtr">-5,327</td>
+		<td class="txtr">0</td>
+		<td class="txtr">
+		    <b>-5,327</b>
+		</td>
+		
+		<td class="txtr"></td>
+		<td class="txtr">8</td>								
+	</tr>
+  
+	<tr bgcolor='#DEF1F8'>
+	    <td align="left">합계</td>	
+		<td class="txtr">140,000,000</td>
+		<td class="txtr">40,000,000</td>
+		<td class="txtr">
+		    <b>180,000,000</b>
+		</td>
+		<!-- 현금 -->
+		<td class="txtr">140,000,000</td>
+		   
+		<!-- 현물 -->
+		<td class="txtr">40,000,000</td>
+		
+		<!-- 이월금 (현금만 존재) --> 
+		<td class="txtr">0</td>
+		
+		<!-- 이자 (현금만 존재)-->
+   		<td class="txtr">0</td>
+		
+		<td class="txtr">
+		    <b>180,000,000</b>
+		</td>
+		
+		<td class="txtr">134,877,632</td>	
+		<td class="txtr">9,136,451</td>
+		<td class="txtr">0</td>
+		<td class="txtr">
+		    <b>144,014,083</b>
+		</td>
+		
+		<td class="txtr">5,122,368</td>
+		<td class="txtr">40,000,000</td>
+		<td class="txtr">
+		    <b>45,122,368</b>
+		</td>
+		
+		<td class="txtr"></td>
+		<td class="txtr">131</td>								
+	</tr>
+
+</table>  
+<br><br>
+
+<!---------- 집행방법별 집행내역 ---------->	
+<b>집행방법별 집행내역</b>
+
+<table width="852" border="1">
+  <tr align="center" bgcolor="#DEF1F8">
+    <td width="100">구분</td> 
+    <td width="250" colspan="2">종류</td>
+    <td width="90" >건수</td>
+    <td width="100" >청구금액</td>
+    <td width="100" >부가세</td>
+    <td width="100" >등록된 집행액</td>
+    <td width="90">집행비율</td>
+  </tr>
+
+		
+			<tr "">
+		
+		
+			<td class="txtc" rowspan="7">카드사용내역</td>
+			<td class="txtc" rowspan="5">사용내역입력현황</td>
+		
+			<td class="txtc">연구비(사업비)카드</td>
+		
+			<td class="txtr">0</td>
+			<td class="txtr">0</td>
+			<td class="txtr">0</td>
+			<td class="txtr">0</td> 
+			<td class="txtr">0.00%</td>					
+		</tr>
+
+		
+			<tr "">
+		
+		
+			
+			
+		
+			<td class="txtc">과제통합카드</td>
+		
+			<td class="txtr">0</td>
+			<td class="txtr">0</td>
+			<td class="txtr">0</td>
+			<td class="txtr">0</td> 
+			<td class="txtr">0.00%</td>					
+		</tr>
+
+		
+			<tr "">
+		
+		
+			
+			
+		
+			<td class="txtc">중앙구매카드</td>
+		
+			<td class="txtr">0</td>
+			<td class="txtr">0</td>
+			<td class="txtr">0</td>
+			<td class="txtr">0</td> 
+			<td class="txtr">0.00%</td>					
+		</tr>
+
+		
+			<tr "">
+		
+		
+			
+			
+		
+			<td class="txtc">다년도과제카드</td>
+		
+			<td class="txtr">67</td>
+			<td class="txtr">8,319,470</td>
+			<td class="txtr">731,476</td>
+			<td class="txtr">7,587,994</td> 
+			<td class="txtr">4.22%</td>					
+		</tr>
+
+		
+			<tr "">
+		
+		
+			
+			
+		
+			<td class="txtc">카드사용 총계</td>
+		
+			<td class="txtr">67</td>
+			<td class="txtr">8,319,470</td>
+			<td class="txtr">731,476</td>
+			<td class="txtr">7,587,994</td> 
+			<td class="txtr">4.22%</td>					
+		</tr>
+
+		
+        	<tr>
+        
+		
+			
+			
+		
+        	<td align='center' colspan="2">카드사용내역 미입력현황</td>
+        
+			<td class="txtr">8</td>
+			<td class="txtr">0</td>
+			<td class="txtr">0</td>
+			<td class="txtr">5,327</td> 
+			<td class="txtr">0.00%</td>					
+		</tr>
+
+		
+			<tr "bgcolor='#FCEFCF'">
+		
+		
+			
+			<td class="txtc" >소계(a)</td>
+		
+			<td class="txtc">소계(a)</td>
+		
+			<td class="txtr">75</td>
+			<td class="txtr">8,319,470</td>
+			<td class="txtr">731,476</td>
+			<td class="txtr">7,593,321</td> 
+			<td class="txtr">4.22%</td>					
+		</tr>
+
+		
+			<tr "">
+		
+		
+			<td class="txtc" rowspan="8">기타사용내역</td>
+			<td class="txtc" >개인신용카드</td>
+		
+			<td class="txtc">개인신용카드</td>
+		
+			<td class="txtr">0</td>
+			<td class="txtr">0</td>
+			<td class="txtr">0</td>
+			<td class="txtr">0</td> 
+			<td class="txtr">0.00%</td>					
+		</tr>
+
+		
+			<tr "">
+		
+		
+			
+			<td class="txtc" >기관법인카드</td>
+		
+			<td class="txtc">기관법인카드</td>
+		
+			<td class="txtr">0</td>
+			<td class="txtr">0</td>
+			<td class="txtr">0</td>
+			<td class="txtr">0</td> 
+			<td class="txtr">0.00%</td>					
+		</tr>
+
+		
+			<tr "">
+		
+		
+			
+			<td class="txtc" >계좌이체</td>
+		
+			<td class="txtc">계좌이체</td>
+		
+			<td class="txtr">55</td>
+			<td class="txtr">127,689,286</td>
+			<td class="txtr">8,404,975</td>
+			<td class="txtr">119,284,311</td> 
+			<td class="txtr">66.27%</td>					
+		</tr>
+
+		
+			<tr "">
+		
+		
+			
+			<td class="txtc" >인터넷뱅킹</td>
+		
+			<td class="txtc">인터넷뱅킹</td>
+		
+			<td class="txtr">0</td>
+			<td class="txtr">0</td>
+			<td class="txtr">0</td>
+			<td class="txtr">0</td> 
+			<td class="txtr">0.00%</td>					
+		</tr>
+
+		
+			<tr "">
+		
+		
+			
+			<td class="txtc" >현금</td>
+		
+			<td class="txtc">현금</td>
+		
+			<td class="txtr">0</td>
+			<td class="txtr">0</td>
+			<td class="txtr">0</td>
+			<td class="txtr">0</td> 
+			<td class="txtr">0.00%</td>					
+		</tr>
+
+		
+			<tr "">
+		
+		
+			
+			<td class="txtc" >현물</td>
+		
+			<td class="txtc">현물</td>
+		
+			<td class="txtr">0</td>
+			<td class="txtr">0</td>
+			<td class="txtr">0</td>
+			<td class="txtr">0</td> 
+			<td class="txtr">0.00%</td>					
+		</tr>
+
+		
+			<tr "">
+		
+		
+			
+			<td class="txtc" >지로</td>
+		
+			<td class="txtc">지로</td>
+		
+			<td class="txtr">0</td>
+			<td class="txtr">0</td>
+			<td class="txtr">0</td>
+			<td class="txtr">0</td> 
+			<td class="txtr">0.00%</td>					
+		</tr>
+
+		
+			<tr "bgcolor='#FCEFCF'">
+		
+		
+			
+			<td class="txtc" >소계(b)</td>
+		
+			<td class="txtc">소계(b)</td>
+		
+			<td class="txtr">55</td>
+			<td class="txtr">127,689,286</td>
+			<td class="txtr">8,404,975</td>
+			<td class="txtr">119,284,311</td> 
+			<td class="txtr">66.27%</td>					
+		</tr>
+
+		
+			<tr "bgcolor='#DEF1F8'">
+		
+		
+			<td class="txtc" >합계(a+b)</td>
+			<td class="txtc" >합계(a+b)</td>
+		
+			<td class="txtc">합계(a+b)</td>
+		
+			<td class="txtr">130</td>
+			<td class="txtr">136,008,756</td>
+			<td class="txtr">9,136,451</td>
+			<td class="txtr">126,877,632</td> 
+			<td class="txtr">70.49%</td>					
+		</tr>
+
+</table>
